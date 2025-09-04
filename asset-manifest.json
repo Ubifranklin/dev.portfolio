@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ubifranklin/dev.portfolio.git/static/css/main.94ded3e7.css",
-    "main.js": "/Ubifranklin/dev.portfolio.git/static/js/main.1c89a8de.js",
-    "static/js/453.a5b25d5b.chunk.js": "/Ubifranklin/dev.portfolio.git/static/js/453.a5b25d5b.chunk.js",
-    "index.html": "/Ubifranklin/dev.portfolio.git/index.html",
-    "main.94ded3e7.css.map": "/Ubifranklin/dev.portfolio.git/static/css/main.94ded3e7.css.map",
-    "main.1c89a8de.js.map": "/Ubifranklin/dev.portfolio.git/static/js/main.1c89a8de.js.map",
-    "453.a5b25d5b.chunk.js.map": "/Ubifranklin/dev.portfolio.git/static/js/453.a5b25d5b.chunk.js.map"
+    "main.css": "/Ubifranklin/dev.portfolio/static/css/main.94ded3e7.css",
+    "main.js": "/Ubifranklin/dev.portfolio/static/js/main.30530676.js",
+    "static/js/453.a5b25d5b.chunk.js": "/Ubifranklin/dev.portfolio/static/js/453.a5b25d5b.chunk.js",
+    "index.html": "/Ubifranklin/dev.portfolio/index.html",
+    "main.94ded3e7.css.map": "/Ubifranklin/dev.portfolio/static/css/main.94ded3e7.css.map",
+    "main.30530676.js.map": "/Ubifranklin/dev.portfolio/static/js/main.30530676.js.map",
+    "453.a5b25d5b.chunk.js.map": "/Ubifranklin/dev.portfolio/static/js/453.a5b25d5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94ded3e7.css",
-    "static/js/main.1c89a8de.js"
+    "static/js/main.30530676.js"
   ]
 }
