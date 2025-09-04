@@ -24,7 +24,7 @@ const Hero = () => {
       }, 3000);
       return () => clearInterval(interval);
     }
-  }, [settings.enableTypingAnimation]);
+  }, []);
 
   // Fade in animation
   useEffect(() => {
