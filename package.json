@@ -1,6 +1,6 @@
 {
   "homepage": "https://ubifranklin.github.io/dev.portfolio",
-  "name": "portfolio-website",
+  "name": "dev.portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
